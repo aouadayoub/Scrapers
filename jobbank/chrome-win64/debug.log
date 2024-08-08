@@ -1,0 +1,7 @@
+[0723/134428.693:ERROR:command_buffer_proxy_impl.cc(132)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[0723/134434.204:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[0723/134434.204:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[0723/134434.204:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[0723/134434.375:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[0723/134434.375:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[0723/134434.375:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom

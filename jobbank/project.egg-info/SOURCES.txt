@@ -1,0 +1,13 @@
+setup.py
+jobbank/__init__.py
+jobbank/items.py
+jobbank/middlewares.py
+jobbank/pipelines.py
+jobbank/settings.py
+jobbank/spiders/__init__.py
+jobbank/spiders/jobbank_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
