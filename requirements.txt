@@ -1,0 +1,5 @@
+scrapy
+scrapy-selenium
+selenium
+pymongo
+python-dotenv
